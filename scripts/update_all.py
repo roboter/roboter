@@ -38,7 +38,7 @@ def main():
     for mod, func in steps:
         run_step(mod, func)
         
-    print("\n✅ All steps completed successfully! README.md is up to date.")
+    print("\n[OK] All steps completed successfully! README.md is up to date.")
 
 if __name__ == '__main__':
     main()
