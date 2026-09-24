@@ -1,0 +1,173 @@
+{
+  "agg-sharp": {
+    "is_fork": true,
+    "parent_name": "MatterHackers/agg-sharp",
+    "parent_url": "https://github.com/MatterHackers/agg-sharp",
+    "status": "diverged",
+    "ahead_by": 5,
+    "behind_by": 404,
+    "parent_branch": "main"
+  },
+  "antimony": {
+    "is_fork": true,
+    "parent_name": "mkeeter/antimony",
+    "parent_url": "https://github.com/mkeeter/antimony",
+    "status": "ahead",
+    "ahead_by": 21,
+    "behind_by": 0,
+    "parent_branch": "develop"
+  },
+  "AVR-Simulator": {
+    "is_fork": true,
+    "parent_name": "tmthrgd/AVR-Simulator",
+    "parent_url": "https://github.com/tmthrgd/AVR-Simulator",
+    "status": "ahead",
+    "ahead_by": 29,
+    "behind_by": 0,
+    "parent_branch": "master"
+  },
+  "beehive-sensors": {
+    "is_fork": true,
+    "parent_name": "Gratheon/beehive-sensors",
+    "parent_url": "https://github.com/Gratheon/beehive-sensors",
+    "status": "identical",
+    "ahead_by": 0,
+    "behind_by": 0,
+    "parent_branch": "main"
+  },
+  "Drill_To_Gcode": {
+    "is_fork": true,
+    "parent_name": "funkystuff/Drill_To_Gcode",
+    "parent_url": "https://github.com/funkystuff/Drill_To_Gcode",
+    "status": "unknown",
+    "ahead_by": 0,
+    "behind_by": 0,
+    "parent_branch": "master"
+  },
+  "gsGCode": {
+    "is_fork": true,
+    "parent_name": "gradientspace/gsGCode",
+    "parent_url": "https://github.com/gradientspace/gsGCode",
+    "status": "identical",
+    "ahead_by": 0,
+    "behind_by": 0,
+    "parent_branch": "master"
+  },
+  "gsSlicer": {
+    "is_fork": true,
+    "parent_name": "gradientspace/gsSlicer",
+    "parent_url": "https://github.com/gradientspace/gsSlicer",
+    "status": "ahead",
+    "ahead_by": 1,
+    "behind_by": 0,
+    "parent_branch": "master"
+  },
+  "gsSlicerApps": {
+    "is_fork": true,
+    "parent_name": "gradientspace/gsSlicerApps",
+    "parent_url": "https://github.com/gradientspace/gsSlicerApps",
+    "status": "ahead",
+    "ahead_by": 6,
+    "behind_by": 0,
+    "parent_branch": "master"
+  },
+  "LilyGO_T5_V24": {
+    "is_fork": true,
+    "parent_name": "Khaalidi/LilyGO_T5_V24",
+    "parent_url": "https://github.com/Khaalidi/LilyGO_T5_V24",
+    "status": "identical",
+    "ahead_by": 0,
+    "behind_by": 0,
+    "parent_branch": "master"
+  },
+  "MatterControl": {
+    "is_fork": true,
+    "parent_name": "MatterHackers/MatterControl",
+    "parent_url": "https://github.com/MatterHackers/MatterControl",
+    "status": "ahead",
+    "ahead_by": 6,
+    "behind_by": 0,
+    "parent_branch": "main"
+  },
+  "MightyBoardFirmware": {
+    "is_fork": true,
+    "parent_name": "makerbot/MightyBoardFirmware",
+    "parent_url": "https://github.com/makerbot/MightyBoardFirmware",
+    "status": "identical",
+    "ahead_by": 0,
+    "behind_by": 0,
+    "parent_branch": "master"
+  },
+  "mini_cnc_plotter_firmware": {
+    "is_fork": true,
+    "parent_name": "adidax/mini_cnc_plotter_firmware",
+    "parent_url": "https://github.com/adidax/mini_cnc_plotter_firmware",
+    "status": "ahead",
+    "ahead_by": 1,
+    "behind_by": 0,
+    "parent_branch": "master"
+  },
+  "Net3dBool": {
+    "is_fork": true,
+    "parent_name": "larsbrubaker/Net3dBool",
+    "parent_url": "https://github.com/larsbrubaker/Net3dBool",
+    "status": "ahead",
+    "ahead_by": 1,
+    "behind_by": 0,
+    "parent_branch": "master"
+  },
+  "NodePCB": {
+    "is_fork": true,
+    "parent_name": "wieslawsoltes/NodeEditor",
+    "parent_url": "https://github.com/wieslawsoltes/NodeEditor",
+    "status": "diverged",
+    "ahead_by": 11,
+    "behind_by": 63,
+    "parent_branch": "main"
+  },
+  "ReplicatorG": {
+    "is_fork": true,
+    "parent_name": "makerbot/ReplicatorG",
+    "parent_url": "https://github.com/makerbot/ReplicatorG",
+    "status": "identical",
+    "ahead_by": 0,
+    "behind_by": 0,
+    "parent_branch": "master"
+  },
+  "roboter": {
+    "is_fork": true,
+    "parent_name": "ardalis/ardalis",
+    "parent_url": "https://github.com/ardalis/ardalis",
+    "status": "diverged",
+    "ahead_by": 4,
+    "behind_by": 7,
+    "parent_branch": "master"
+  },
+  "Sailfish-MightyBoardFirmware": {
+    "is_fork": true,
+    "parent_name": "jetty840/Sailfish-MightyBoardFirmware",
+    "parent_url": "https://github.com/jetty840/Sailfish-MightyBoardFirmware",
+    "status": "ahead",
+    "ahead_by": 6,
+    "behind_by": 0,
+    "parent_branch": "master"
+  },
+  "T8-CNC-Firmware": {
+    "is_fork": true,
+    "parent_name": "gnea/grbl",
+    "parent_url": "https://github.com/gnea/grbl",
+    "status": "diverged",
+    "ahead_by": 1,
+    "behind_by": 1,
+    "parent_branch": "master"
+  },
+  "UTFT-1": {
+    "is_fork": true,
+    "parent_name": "dgolda/UTFT",
+    "parent_url": "https://github.com/dgolda/UTFT",
+    "status": "identical",
+    "ahead_by": 0,
+    "behind_by": 0,
+    "parent_branch": "master"
+  }
+}
